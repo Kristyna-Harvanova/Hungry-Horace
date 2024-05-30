@@ -1,0 +1,3 @@
+﻿MapLevel1.txt 40 19
+MapLevel2.txt 40 23
+MapLevel3.txt 39 22
